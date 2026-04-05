@@ -1,14 +1,6 @@
-# 🎓 LMS Demo Web App
 
-A complete Learning Management System demo with mock data - perfect for project demonstrations!
 
-## ✨ Key Features
-
-- **NO Real Database** - All data is mock/sample
-- **Login with Anything** - Use any email/password combination
-- **Fully Functional UI** - Complete teacher and student portals
-- **Ready to Deploy** - Works on Vercel with zero configuration
-- **No Setup Required** - Just npm install and run!
+A complete Learning Management System demo with mock data - perfect for project demonstration
 
 ## 🚀 Quick Start
 
