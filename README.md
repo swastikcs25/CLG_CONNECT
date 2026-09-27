@@ -4,18 +4,8 @@ A complete Learning Management System demo with mock data - perfect for project 
 
 ## 🚀 Quick Start
 
-```bash
-# Install
-npm install
 
-# Run locally
-npm run dev
-
-# Build
-npm run build
-```
-
-Visit `http://localhost:5173`
+Visit [`http://localhost:5173`](https://clgconnect1.netlify.app/)
 
 ## 🔐 Login
 
