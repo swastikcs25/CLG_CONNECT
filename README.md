@@ -5,7 +5,7 @@ A complete Learning Management System demo with mock data - perfect for project 
 ## 🚀 Quick Start
 
 
-Visit [`http://localhost:5173`](https://clgconnect1.netlify.app/)
+Visit: (https://clgconnect1.netlify.app/)
 
 ## 🔐 Login
 
